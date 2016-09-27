@@ -11,6 +11,9 @@ A set of articles worth reading
 - [How Music Hijacks Our Perception of Time](http://nautil.us/issue/9/time/how-music-hijacks-our-perception-of-time) _I knew there was something behind that_
 - [MBTI test](http://www.analyse-transactionnelle.com/Mbti/mbtiComm.php?mode=quest&sData=1104342323230312112423324324223541144415&sCtx=/003211&sCartouche=&sRetour=../index.html) _one rare psychological test that doesn't suck_
 
+## Nature
+- [The Harsh, Hidden Lessons of Tree School](http://nautil.us/issue/40/learning/the-harsh-hidden-lessons-of-tree-school) _trees seem smarter than we think they are_
+
 ## Education
 - [The Learning Myth: Why I’ll Never Tell My Son He’s Smart](http://www.huffingtonpost.com/salman-khan/the-learning-myth-why-ill_b_5691681.html?1408465176)
 - [Les Lois naturelles de l'enfant: La Révolution de l'éducation](https://www.amazon.fr/Lois-naturelles-lenfant-R%C3%A9volution-l%C3%A9ducation-ebook/dp/B01LDIOS64?SubscriptionId=AKIAJTG22ZTMVYPF5DYQ&tag=p04c6-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01LDIOS64) _her method got rejected by the french Education Nationale, no wonder why the rigid french educational system goes down_
