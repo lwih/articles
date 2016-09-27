@@ -2,7 +2,7 @@
 A set of articles worth reading
 
 ## Science
-- [The Man Who Tried to Redeem the World with Logic](http://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic) _long smart but melo story_
+- [The Man Who Tried to Redeem the World with Logic](http://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic) _long, interesting, smart and melo story_
 
 ## Humanities
 - [Cooperation Is What Makes Us Human](http://nautil.us/issue/1/what-makes-you-so-special/cooperation-is-what-makes-us-human)
