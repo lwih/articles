@@ -19,7 +19,7 @@ A set of articles worth reading
 - [Pourquoi les Arabes ne veulent pas des Américains en Syrie ? Par Robert F. Kennedy Jr](https://blogs.mediapart.fr/danyves/blog/220316/pourquoi-les-arabes-ne-veulent-pas-des-americains-en-syrie-par-robert-f-kennedy-jr?utm_source=facebook&utm_medium=social&utm_campaign=Sharing&xtor=CS3-66)
 
 ## Economy
-- [La peur de l’embauche est-elle justifiée ?](http://www.alterecoplus.fr/la-peur-de-lembauche-est-elle-justifiee/00003624) _demystifying ortho eco & political bullshit about rigid & protective employee rules and unemployment_
+- [La peur de l’embauche est-elle justifiée ?](http://www.alterecoplus.fr/la-peur-de-lembauche-est-elle-justifiee/00003624) _demystifying ortho eco & political bullshit about rigid & protective employement rules and unemployment_
 
 ## Business
 - [Getting to Si, Ja, Oui, Hai, and Da](https://hbr.org/2015/12/getting-to-si-ja-oui-hai-and-da?utm_source=Partner&utm_medium=Social&utm_campaign=Quartz) _international negotiation_
